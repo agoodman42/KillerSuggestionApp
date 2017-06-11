@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">KillerSuggestionApp</string>
     <string name="action_settings">Settings</string>
+    <string name="add_suggestion">Add Suggestion</string>
+    <string name="linear_layout_rb_text">Linear Layout</string>
+    <string name="grid_layout_rb_text">Grid Layout</string>
 </resources>
